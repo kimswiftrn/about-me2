@@ -8,6 +8,7 @@ title{
   font-size: medium;font-weight: bold;
   
 }
+
 h1 {
   background-color: rgb(218, 126, 139)
   font-family: 'Courier New', Courier, monospace;
@@ -16,5 +17,9 @@ h1 {
 p{ background-color: springgreen;
   font-family: 'Courier New', Courier, monospace;
   font-size: medium;font-weight: bold;
+
+}
+ol{
+  list-style-type: decimal;
 
 }
